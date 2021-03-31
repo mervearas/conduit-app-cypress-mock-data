@@ -1,0 +1,11 @@
+Cypress.Commands.add('login', (email, password) => {
+    cy.visit('https://demo.realworld.io/#/')
+    cy.get('[show-authed="false"] > :nth-child(2) > .nav-link')
+    .click()
+    cy.get(':nth-child(2) > .form-control')
+    .type(email)
+    cy.get(':nth-child(3) > .form-control')
+    .type(password)
+    cy.get('.btn')
+    .click()
+ })

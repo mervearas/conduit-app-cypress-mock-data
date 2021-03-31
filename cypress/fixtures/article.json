@@ -1,0 +1,38 @@
+{
+    "articles": [
+        {
+            "title": "merveeee",
+            "slug": "ggg-lho98j",
+            "body": "ggg",
+            "createdAt": "2021-03-30T22:42:33.917Z",
+            "updatedAt": "2021-03-30T22:42:33.917Z",
+            "tagList": [],
+            "description": "ggg",
+            "author": {
+                "username": "Merve",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 5
+        },
+        {
+            "title": "merve",
+            "slug": "ggg-6p2m7h",
+            "body": "ggg",
+            "createdAt": "2021-03-30T22:41:09.506Z",
+            "updatedAt": "2021-03-30T22:41:09.506Z",
+            "tagList": [],
+            "description": "ggg",
+            "author": {
+                "username": "Emir",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 7
+        }
+    ]
+}
